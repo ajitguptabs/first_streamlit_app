@@ -1,2 +1,2 @@
 import streamlit 
-steamlit.title ('MY first program')
+streamlit.title ('MY first program')
